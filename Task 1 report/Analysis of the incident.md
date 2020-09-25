@@ -1,5 +1,7 @@
 # Analysis of The Incident Caused by Human or Design Error
 ### Similar incident in the past record
+![havilland](https://user-images.githubusercontent.com/55974755/94266521-78fed300-ff64-11ea-9b20-4033a1c74430.jpg)
+
 The Real Story of the Comet Disaster (De Havilland Comet - Structural Fatigue) 
 (https://zenodo.org/record/2551089#.X2zZGWgzbIU) di akses 17 september 2020
 
@@ -9,6 +11,7 @@ Sayangnya tepat satu tahun yaitu pada 2 Mei 1953, Comet mengalami kecelakan di I
 
 ### Explain the design error
 Tanda pertama dari kecacatan DH Comet datang pada 2 Mei 1953 ketika sebuah Comet hancur setelah lepas-landas dari Kalkuta; kejatuhan pesawat lainnya (Januari dan April 1954) tanpa penyebab yang jelas menyebabkan seluruh armada tidak diterbangkan untuk investigasi. Setelah sisa dari kecelakaan di Italia ditemukan dan di investigasi pada Februari 1955, seperti yang diperkirakan, masalahnya adalah fatig logam. Setelah ribuan kenaikan dan penurunan yang bertekanan, logam "fuselage" yang tipis di sekitar jendelanya yang besar dan persegi mulai retak. Kegagalan struktural tekanan kabin ini disebabkan oleh struktur jendela kabin yang berbentuk persegi. Karena sudut tajam pada bentuk persegi ini membuat logam di sekitarnya berada di bawah tekanan tinggi. Karena tidak kuat menerima tekanan berulang di udara, kaca pesawat kemudian pecah dan pesawat ini pun jatuh. Maksudnya, tidak mampunya logam untuk menahan tekanan di pesawat yang menyebabkan dekompresi eksplosif dan meledak di udara.
+![window-2](https://user-images.githubusercontent.com/55974755/94266511-7603e280-ff64-11ea-9afb-37a08a8d33d7.jpg)
 
 ### Provide suggestion to improve the design
 Seluruh Comet yang tersisa dihancurkan atau dimodifikasi dengan jendela dari semula bujursangkar menjadi bentuk oval. Jendela berbentuk oval ini dapat mengurangi tekanan atau turbulensi ketika pesawat berada di atmosfer yang lebih rendah. Dengan demikian, tegangan mengalir lebih merata di sekitar tepi jendela dan program untuk memproduksi sebuah Comet 2 dengan mesin Rolls-Royce Avon yang lebih bertenaga ditunda. Beberapa Comet 2 dimodifikasi lagi untuk memperbaiki masalah fatig dan menjalani tugas dalam RAF sebagai Comet C.2. Pesawat Comet tidak melayani penerbangan komersial sampai 1958, ketika Comet 4 yang lebih canggih diperkenalkan.
