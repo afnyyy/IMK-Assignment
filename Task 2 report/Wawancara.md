@@ -21,7 +21,7 @@ adalah hal yang diperlukan adalah berkreasi untuk mengkreasikan apa yang tadinya
 **Biasanya kalo membuat desain, ada gak filosofi nya ga ka?**
 >Mungkin bukan filosofi ya, tapi dalam membuat produk, lebih membutuhkan user research biasanya. Jadi Sebelum membuat produk, bisanya kita perlu alasan kenapa kita harus membuat seperti ini. Untuk hal itu diperlukan interview dengan user, user recearch bisa didapatkan dari literasi juga. Setelah itu kita bisa kompetitif research juga dengan kompetitor. Lalu dilakukan analisa, sehingga misalnya ada beberapa ada beberapa alternatif dapat di rembukin mana nih yang bisa terima atau memudahkan.
 
-**Bagaimana tahapan dalam mendesain?
+**Bagaimana tahapan dalam mendesain?**
 >Banyak langkahnya, tapi biasanya saya pakai prinsip design thinking. Dalam design thinking hal yang perlu dilakukan saat mendesain itu kurang lebih ada 5 tahapan.
 1. Empetize. ini sebagaimana yang pertama tadi bilang tadi saya bilang adalah berempati kepada user. Harus mengetahui apa masalahnya.
 2. Define, dimana kita harus bisa mendefinisikan masalah-masalah yang tadi kita sudah kita ketahui
