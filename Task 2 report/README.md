@@ -4,3 +4,5 @@
 
 ** Prolog: **
 Semuanya bermula ketika salah satu rekan kerja saya menunjukkan kepada saya tantangan kreasi bersama UX yang diadakan oleh Jenius, salah satu perbankan digital terpopuler di Indonesia di bawah BTPN. Ini memungkinkan para penggemar UX untuk berkolaborasi ide dan desain untuk membuat desain UI / UX interaktif baru mereka sendiri dari aplikasi Jenius untuk mengembangkan keterlibatan pengguna yang lebih baik melalui UX.
+
+
