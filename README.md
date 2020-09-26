@@ -8,3 +8,4 @@
 #### Task 2 report
 Video wawancara
 > https://youtu.be/2bIzRhxfVwM
+> https://github.com/cinditrifs/IMK-Assignment-1/tree/master/Task%202%20report
