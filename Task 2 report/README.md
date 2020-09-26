@@ -40,10 +40,9 @@ Berikut gambar rangka sketsa keras untuk edisi pertama:
 ![4](https://user-images.githubusercontent.com/55974755/94325007-9c5a6a00-ffc6-11ea-9b94-aa5801e74235.png)
 Dan inilah gambar rangka sketsa keras untuk yang kedua:
 ![5](https://user-images.githubusercontent.com/55974755/94325514-feb46a00-ffc8-11ea-99f9-bf6c0e358dfa.png)
-
 **Design**
-Setelah berdebat dan berdiskusi tentang desain dan kita sepakat tentang implementasi pengalaman, maka tibalah saatnya Randy membiarkan keajaibannya bekerja. Desain dilakukan di Figma.
 
+Setelah berdebat dan berdiskusi tentang desain dan kita sepakat tentang implementasi pengalaman, maka tibalah saatnya Randy membiarkan keajaibannya bekerja. Desain dilakukan di Figma.
 **Validasi**
 
 Untuk memvalidasi ide kami, kami pergi untuk menguji desain dengan mendatangi pengguna dan melihat reaksi mereka sehingga kami bisa mendapatkan umpan balik. Kami menggunakan Maze untuk membantu kami mengumpulkan umpan balik pengguna yang akurat. Kami sangat senang dengan aplikasi ini karena sangat membantu untuk dapat berintegrasi dengan Figma.
@@ -75,5 +74,5 @@ Kemudian, mereka memberi nilai pada desain tersebut. Berikut pendapat mereka ten
 Skor uji kegunaan fitur split bill baru Jenius
 Kami dapat melihat bahwa 44% pengguna merasa lebih mudah bagi mereka untuk menggunakan desain tagihan terpisah yang baru. Meskipun pengguna dapat melakukannya dengan mudah, dengan hasilnya, kami yakin bahwa kami masih dapat meningkatkan desain pengalaman yang lebih baik dari fitur ini.
 Conclusion
-Prototipe terakhir memiliki banyak hal untuk ditingkatkan dalam banyak hal, tetapi itu adalah cara yang baik untuk melangkah sejauh ini. Kami juga mendapatkan banyak keuntungan dari studi kasus ini dan itu merupakan pengalaman belajar yang luar biasa. Kami berharap untuk terus berkembang dalam desain produk, terutama dalam menerapkan pemikiran desain dalam kehidupan kerja kami. Terima kasih khusus kepada Randy Varianda yang bekerja sama dengan saya dalam melakukan desain antarmuka pengguna dan pengujian pengguna sebagai tim dalam studi kasus ini.
+Prototipe terakhir memiliki banyak hal untuk ditingkatkan dalam banyak hal, tetapi itu adalah cara yang baik untuk melangkah sejauh ini. Kami juga mendapatkan banyak keuntungan dari studi kasus ini dan itu merupakan pengalaman belajar yang luar biasa. Kami berharap untuk terus berkembang dalam desain produk, terutama dalam menerapkan pemikiran desain dalam kehidupan kerja kami. 
 
