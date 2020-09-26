@@ -8,5 +8,5 @@
 #### Task 2 report
 > https://github.com/cinditrifs/IMK-Assignment-1/tree/master/Task%202%20report
 
-Video wawancara
+**Video wawancara**
 > https://youtu.be/2bIzRhxfVwM
