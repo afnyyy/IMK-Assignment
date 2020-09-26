@@ -1,4 +1,4 @@
-# Usecase study di jenius app
+# USECASE STUDY DI JENIUS APPS
 ## Cara kami meningkatkan kesadaran pengguna terhadap fitur aplikasi Jenius - Studi Kasus UX-
 **Sumber https://uxplanet.org/how-we-improved-user-awareness-of-jenius-apps-features-a-ux-case-study-b343c06bf90b ditulis oleh Ecky Alimansyah**
 
