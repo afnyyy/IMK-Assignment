@@ -39,8 +39,8 @@ Saya menerjemahkan catatan How Might We ke dalam solusi desain visual untuk memb
 Berikut gambar rangka sketsa keras untuk edisi pertama:
 ![4](https://user-images.githubusercontent.com/55974755/94325007-9c5a6a00-ffc6-11ea-9b94-aa5801e74235.png)
 Dan inilah gambar rangka sketsa keras untuk yang kedua:
-![5](https://user-images.githubntent.com/55974755/94325009-9ebcc400-ffc6-11ea-8b47-f6da9ab0a449.png)
- 
+![5](https://user-images.githubusercontent.com/55974755/94325514-feb46a00-ffc8-11ea-99f9-bf6c0e358dfa.png)
+
 **Design**
 Setelah berdebat dan berdiskusi tentang desain dan kita sepakat tentang implementasi pengalaman, maka tibalah saatnya Randy membiarkan keajaibannya bekerja. Desain dilakukan di Figma.
 
@@ -57,13 +57,13 @@ Namun, inilah yang dirasakan pengguna tentang menjelajahi fitur-fitur di beranda
 ![7](https://user-images.githubusercontent.com/55974755/94325013-a2504b00-ffc6-11ea-9ed5-d23c290d123c.jpg)
 Yang mengejutkan, desain baru ini mengalami peningkatan yang signifikan. Pengguna merasa bahwa menampilkan sebagian besar fitur di sajian beranda telah meningkatkan kesadaran mereka melalui fitur tersebut.
 Umpan baliknya juga menjelaskan semuanya.
-````
-“Dengan tampilan baru saya lebih mudah menemukan fitur2 yang ada di Jenius karena letaknya di bagian depan. Selain itu menurut saya, tampilan yang baru lebih menarik dan lebih informatif. ”
+
+*“Dengan tampilan baru saya lebih mudah menemukan fitur2 yang ada di Jenius karena letaknya di bagian depan. Selain itu menurut saya, tampilan yang baru lebih menarik dan lebih informatif. ”
 “Lebih kekinian, lebih keliatan kalau fiturnya banyak.”
 “Mudah karna semua menu utama langsung.”
 “Tampilan yang menampilkan ikon untuk setiap fitur yang lebih memudahkan dibandingkan yang sebelumnya (bergulir).”
-“Menu sudah mudah didapat dengan langsung tapi warnanya yg sama disetiap menu / fitur bikin bingung.”
-````
+“Menu sudah mudah didapat dengan langsung tapi warnanya yg sama disetiap menu / fitur bikin bingung.”*
+
 Bagaimana dengan fitur split bill? Yup, kami pergi untuk memvalidasinya juga.
 Pengujian dilakukan terhadap 14 pengguna Jenius yang telah menggunakan fitur split bill.
  ![8](https://user-images.githubusercontent.com/55974755/94325014-a54b3b80-ffc6-11ea-92e1-eb2e0bda24c2.jpg)
