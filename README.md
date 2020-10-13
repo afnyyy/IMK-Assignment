@@ -14,6 +14,8 @@ Mengikutsertakan :
 - Mubdi Haryanto, Mahasiswa Teknik Informatika, STT Nurul Fikri
 - Muthia Iftinah, Mahasiswa Sistem Informasi, Universitas Indonesia
 
+Pemilihan design yang akan di ajukan ke developer dengan menggunakan score penialaian. Hasil rekap penilaian terdapat di file task 2/hasil akumulasi score+voting.pdf
+
 ### Day-4
 Tanggal Record : Senin, 12 Oktober 2020
 Via Zoom Meeting 
