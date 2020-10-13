@@ -1,4 +1,4 @@
-# -Interaksi Manusia dan Komputer-
+# Repository Tugas Interaksi Manusia dan Komputer
 ## Kelompok F
 1. **Cindi Tri Fitikasari [1313618025]**
 2. **Afny [1313618001]**
