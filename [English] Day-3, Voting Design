@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:08,576
+hello, I'm Mubdi, I'm study in STT Nurul Fikri majority Informatics Engineering. Now, i'm in 3th semester
+
+2
+00:00:11,672 --> 00:00:15,443
+and, I also had an assignment like that in semester 1
+
+3
+00:00:16,620 --> 00:00:28,254
+Hello, I'm Muthi, now i'm final-year students at Information System in University of Indonesia
+
+4
+00:00:28,254 --> 00:00:38,452
+okey,  we have an assignment, we must revamp an application, and we decided choose 'sakeluarga' app  
+
+5
+00:00:38,452 --> 00:00:42,124
+nila will show to you, how sakeluarga app works
+
+6
+00:00:44,811 --> 00:00:58,151
+and, we will show you all of our design by Nila and Afny. And then I will share link-google form, for you to assest the results of our design
+
+7
+00:01:01,426 --> 00:01:13,398
+so, this is sakeluarga app. this app was made for user to join course whatsapp or event 
+
+8
+00:01:13,603 --> 00:01:19,252
+and, there apps have some of categories, like child's education, marriages, pra-marriage, ets
+
+9
+00:01:21,017 --> 00:01:28,252
+"nila explain"
+
+10
+00:01:28,789 --> 00:01:29,675
+enough for me
+
+11
+00:01:31,210 --> 00:01:34,426
+any question?
+
+12
+00:01:37,394 --> 00:01:47,872
+based on the real app, the login view just have a field gmail and password. but, i added with SSO fitur
+
+13
+00:01:49,279 --> 00:02:03,539
+and, in sign-up view, based on real app, just have field to fill email, tel number and password. 
+
+14
+00:02:04,537 --> 00:02:06,313
+but, i added with SSO fitur too
+
+15
+00:02:06,697 --> 00:02:19,128
+and, in profile menu, based on real app only have name and email. but I added with photo, name, tel number and email.
+
+16
+00:02:19,128 --> 00:02:24,495
+and we can edit profile, we can click this and other menu can appear. 
+
+17
+00:02:24,495 --> 00:02:38,872
+and, when we take a course we will get a certificate, and I make a certificate menu to collect all of  certificate that we have
+
+18
+00:02:40,407 --> 00:02:47,738
+and, 'bantuan' for user to ask about this app. and then 'ketentuan layanan'
+
+19
+00:02:48,301 --> 00:02:57,762
+'ketentuan layanan' this is for user know about The terms of service this app. and exit button 
+
+20
+00:02:58,632 --> 00:03:07,747
+and in beranda menu, when we see real app, there is nothing content, but i added with a few of content
+
+21
+00:03:08,694 --> 00:03:13,383
+i make a divided by two, free and paid content
+
+22
+00:03:18,450 --> 00:03:34,475
+in 'kuliah ku' menu,  has already been taken, so we are divided into two, there are  events that are we done,  and coming soon, but it must  already paid or for example, free, I have enroll that course
+
+23
+00:03:37,085 --> 00:03:44,526
+This is the search menu, in real app, search menu is still empty, yes, there is nothing, then I added this menu with category.
+
+24
+00:03:45,601 --> 00:03:52,723
+So if for example you want to search, just write the same, select the category or just go straight to the category,
+
+25
+00:03:53,439 --> 00:03:56,150
+ then the search appears immediately,
+
+26
+00:03:56,892 --> 00:03:58,572
+for transaction 
+
+27
+00:03:59,263 --> 00:04:12,596
+for example, taking two course, the transaction continues to be like Adding this, what's called a checklist, checklist box and deleting, 
+
+28
+00:04:14,438 --> 00:04:25,340
+there is a payment limit and the total .for example, I want to check out the transaction details
+
+29
+00:04:28,001 --> 00:04:32,183
+from afny's design, any question, please. 
+
+30
+00:04:33,360 --> 00:04:40,200
+i want to ask, i think before, payment menu based on the real app, it just for a history list transaction. 
+
+31
+00:04:40,200 --> 00:04:46,291
+but, in your design, transaction menu it's mean for buy, right?
+
+32
+00:04:46,291 --> 00:04:50,556
+example, when we already buy the course, how a history transaction will appear?
+
+33
+00:04:53,550 --> 00:04:58,309
+hmm, in sakeluarga app how its work?
+
+34
+00:04:58,309 --> 00:05:12,954
+in sakeluarga app, yes, it just tell us to upload a  proof of payment. but, we want to change it with real payment 
+
+35
+00:05:14,755 --> 00:05:17,730
+okay okay
+
+36
+00:05:19,393 --> 00:05:26,237
+so, if we already paid, where will the course appear? in already done, right?
+
+37
+00:05:26,749 --> 00:05:28,340
+or ?? 
+
+38
+00:05:29,236 --> 00:05:37,069
+depending on the date, if the date has passed it will appear on the 'sudah selesai' and if not, it will appear in 'akan datang'
+
+39
+00:05:37,862 --> 00:05:39,135
+its about date
+
+40
+00:05:43,843 --> 00:05:44,989
+its enough?
+
+41
+00:05:45,833 --> 00:05:47,170
+okey
+
+42
+00:05:52,236 --> 00:06:03,913
+may be, it's same with afny, in login page, i added with SSO fitur, to login via gmail dan facebook
+
+43
+00:06:05,269 --> 00:06:08,963
+and, we login. this is a view of beranda menu
+
+44
+00:06:09,782 --> 00:06:15,061
+also have a categories. and there is a recommendation event or course
+
+45
+00:06:16,468 --> 00:06:23,568
+and there is also a wishlist, so for example you want to put it in chart, but  you won't to checked out first
+
+46
+00:06:24,000 --> 00:06:29,646
+and, we use search fitur, it is take us to this new page, there can also be a category.
+
+47
+00:06:30,976 --> 00:06:44,708
+and in kuliah ku menu there are divided into two, "already join" and "coming  soon" event
+
+48
+00:06:45,066 --> 00:06:49,575
+and there will be detail, we absent on not.
+
+49
+00:06:50,982 --> 00:07:06,126
+In the sakeluarga app, it was possible the event was only from the admin, but here I want to improve the application can also make us become event contributors in sakeluarga app . so we can register.
+
+50
+00:07:08,122 --> 00:07:10,688
+in payment. 
+
+51
+00:07:11,635 --> 00:07:21,600
+The payment contained that we wanted to take it, but there were three more, there were those who not yet paid,  or were still being confirmed or successful 
+
+52
+00:07:22,316 --> 00:07:25,572
+when we click it, there is a detail transaction. 
+
+53
+00:07:26,263 --> 00:07:30,876
+and this, here is a choice where we want to pay
+
+54
+00:07:32,718 --> 00:07:45,868
+and in profile menu. in sakeluarga app, just show abut email and name. but i added with profile picture and setting to edit name, tel number, date of birth, and gender or profession
+
+55
+00:07:46,303 --> 00:07:59,798
+so, the profession can help us to show recommendation, example, if I'm a college student. recommendation will appear that are suitable 
+
+56
+00:08:00,566 --> 00:08:18,338
+and other, we have a certificate menu, FAQ and about us. certificate for collect our certificate after join this event enough for me. 
+
+57
+00:08:19,310 --> 00:08:21,729
+any question?
+
+58
+00:08:26,769 --> 00:08:28,245
+you have a different design..
+
+59
+00:08:28,808 --> 00:08:29,825
+yeah
+
+60
+00:08:30,618 --> 00:08:44,635
+  yes. i choose blue color because i want to make it suitable with the logo. 
+
+61
+00:08:49,420 --> 00:08:55,022
+ may be, we can start into an assesment, right?
+
+62
+00:08:57,939 --> 00:09:02,125
+design 1 mean afny's design?
+
+63
+00:09:06,679 --> 00:09:09,572
+I can start fill the form right now, right?
+
+64
+00:09:09,777 --> 00:09:13,151
+and, now you can tells us about nila's design and afny's design. 
+
+65
+00:09:15,300 --> 00:09:18,083
+your feedback..
+
+66
+00:09:20,539 --> 00:09:22,501
+i will tell on this form yes.
+
+67
+00:09:23,601 --> 00:09:26,595
+.....
+
+68
+00:09:27,183 --> 00:09:30,239
+can i see afny's design, please.
+
+69
+00:09:31,083 --> 00:09:34,255
+"after about 10 minute fill the form"
+
+70
+00:09:34,511 --> 00:09:48,000
+I already filled it, and may be cannot be detail
+
+71
+00:09:50,226 --> 00:09:54,539
+I already filled it too,  and then..
+
+72
+00:09:55,588 --> 00:10:05,130
+actually from the two mockups, which one do you choose?
+
+73
+00:10:05,539 --> 00:10:08,042
+you can see in score yeah
+
+74
+00:10:09,193 --> 00:10:19,805
+after I see your design I think
+
+75
+00:10:19,805 --> 00:10:20,372
+mmmm
+
+76
+00:10:21,549 --> 00:10:32,462
+may be, because this app a new application, we have a miss concept right? 
+
+77
+00:10:32,846 --> 00:10:40,166
+we don't exactly know about this app, especially, payment process.
+
+78
+00:10:40,166 --> 00:10:44,925
+process when we want to take a course, we don't know much how it works 
+
+79
+00:10:44,925 --> 00:10:54,887
+we don't really know. because this is a new app, not have a content. 
+
+80
+00:10:54,887 --> 00:11:04,013
+so, we are have a bit difficult to explain the human interact in this app
+
+81
+00:11:04,013 --> 00:11:12,145
+so, we decided to improve this app, using concept similar platform education.
+
+82
+00:11:13,655 --> 00:11:23,897
+and for afny's design, we already know from our discussion.
+
+83
+00:11:23,897 --> 00:11:32,572
+about fitur and value, everything has been implemented in you two design
+
+84
+00:11:33,084 --> 00:11:42,000
+but for idea improvement and 
+
+85
+00:11:42,768 --> 00:11:52,469
+about recover design, is still using the sakeluarga design  
+
+86
+00:11:54,644 --> 00:11:58,779
+because in nila's design, like icon, already different
+
+87
+00:12:01,875 --> 00:12:14,216
+for nila's design, i think, its good. because the color made me interested, attract attention
+
+88
+00:12:14,216 --> 00:12:24,304
+because, from our discussion we are agree to make sakeluarga app became an interesting app for user
+
+89
+00:12:24,304 --> 00:12:33,512
+then, in beranda menu, have a recomendation, its so clear. 
+
+90
+00:12:35,124 --> 00:12:49,867
+and for payment process, manipulation of transaction is still unclear. because, i know, we don't make a decision how its works
+
+91
+00:12:49,867 --> 00:12:56,764
+and I'm sure that's what makes there miss in payment process..
+
+92
+00:13:02,419 --> 00:13:18,369
+As is well known, after presenting afny and nila's design, we share a google form containing 7 questions and 1 field feedback for each design.
+
+93
+00:13:18,881 --> 00:13:24,151
+and there are three respons, that are filled by Mubdi, Muthia, and me (Cindi)
+
+94
+00:13:24,867 --> 00:13:33,417
+ and, we already calculating score and collect their feedback here. 
+
+95
+00:13:33,750 --> 00:13:36,917
+this is feedback for first design (afny design)..
+
+96
+00:13:38,043 --> 00:13:52,448
+More new tabs are added for each button option, list transactions that have been completed, materials that are already available, information on completing materials, the certificate section is filled with design examples. 
+
+97
+00:13:54,000 --> 00:13:55,657
+and second feedback for Afny's design
+
+98
+00:13:56,041 --> 00:14:09,110
+Maybe pay attention to the consistency of the language used ( because it's included in the 8 golden rules). Already good compared to the original application. Maybe you can improve the colors used so that they can be more  brighter .
+
+99
+00:14:09,750 --> 00:14:18,959
+Then maybe the process flow can be made in more detail so that the user knows the whole process, starting from searching -> paying -> following the course. 
+
+100
+00:14:19,599 --> 00:14:33,336
+and you can also show  popup for example if the user has finished paying and the transaction is successful. Then maybe some icons are still appropriate (like transactions, maybe people will be more familiar with the basket 
+
+101
+00:14:33,515 --> 00:14:34,015
+like that
+
+102
+00:14:34,194 --> 00:14:37,428
+and this is feedback for second design (nila's design)..
+
+103
+00:14:37,786 --> 00:14:39,157
+first feedback for second design (nila design)..
+
+104
+00:14:39,899 --> 00:14:54,894
+The second design already has a new, more complete tab, the transaction list is quite clear and easy to understand, the color and icon of the second design can be made simpler or adjust to the target user, a list of completed transactions can be made.
+
+105
+00:14:55,841 --> 00:14:58,059
+and the last feedback, 
+
+106
+00:14:58,627 --> 00:15:11,624
+ Same as design 1, maybe pay attention to language consistency (like indonesian or eng). The design is already good compared to the original app and is quite easy to understand, then the initiative to add those that are not yet there.
+
+107
+00:15:12,315 --> 00:15:16,811
+Maybe it's the same as design 1 too hahaha, there are appropriate placement of icons.
+
+108
+00:15:18,525 --> 00:15:22,276
+for example, in payment, maybe you can make a menu bar (like shopee app)
+
+109
+00:15:23,018 --> 00:15:28,918
+to separate the already paid, process, unpaid compared to stepper / breadcrumb
+
+110
+00:15:30,259 --> 00:15:41,647
+like first design. maybe the flow of the process can be explained again, from the start of the user searching until finally paying for success and continuing to join the course 
+
+111
+00:15:42,466 --> 00:15:49,596
+and this, accumulation assessment with seven queston, it's showing that
+
+112
+00:15:50,312 --> 00:15:59,546
+afny's design got 8.06 point and nila's design got 8,3 point. and it was decided that
+
+113
+00:16:00,262 --> 00:16:06,441
+we will bring nila's design to developer. 
+

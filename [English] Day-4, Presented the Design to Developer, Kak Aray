@@ -1,0 +1,524 @@
+1
+00:00:00,000 --> 00:00:04,022
+intro
+
+2
+00:00:04,022 --> 00:00:06,746
+we are team from HCI (Human-Computer Interation)
+
+3
+00:00:06,746 --> 00:00:14,664
+we have an assignment, to revamp User Interface from an application
+
+4
+00:00:15,397 --> 00:00:15,996
+and
+
+5
+00:00:17,310 --> 00:00:24,146
+so, we decided to use the application that you made. and you will be give us a value and feedback from our design
+
+6
+00:00:24,146 --> 00:00:28,346
+first of all, can you introduce yourself, kak
+
+7
+00:00:29,079 --> 00:00:31,434
+okay, just a little introduction yaa
+
+8
+00:00:32,091 --> 00:00:34,956
+hallo, my name is Reyhan
+
+9
+00:00:36,169 --> 00:00:41,535
+now, im working in Skyedu Indonesia dan Skyedu Academy
+
+10
+00:00:41,788 --> 00:00:46,421
+business unit of Badr Interactive
+
+11
+00:00:47,154 --> 00:00:50,559
+and i'm study in university too, do work while studying
+
+12
+00:00:51,747 --> 00:00:57,327
+I'm study in STT Nurul Fikri, majority in Informatics Engineering.
+
+13
+00:00:58,510 --> 00:00:59,010
+any question?
+
+14
+00:01:00,704 --> 00:01:02,455
+you made Sakeluarga application right?
+
+15
+00:01:03,365 --> 00:01:09,570
+yes, that time I have a request from client, . 
+
+16
+00:01:09,570 --> 00:01:15,003
+client is startup sakelurga. That startup pass in event UI incubator
+
+17
+00:01:16,065 --> 00:01:18,568
+Business incubator in UI 
+
+18
+00:01:19,124 --> 00:01:22,340
+there is a startup was selection process
+
+19
+00:01:22,340 --> 00:01:27,057
+and, fortunately, sakeluarga and sky edu pass in
+
+20
+00:01:27,057 --> 00:01:29,613
+to the UI incubate  
+
+21
+00:01:29,613 --> 00:01:33,623
+so, skyedu and sakeluarga make a collaboration
+
+22
+00:01:33,623 --> 00:01:37,740
+sakeluarga make a request to us, to build application
+
+23
+00:01:40,116 --> 00:01:40,802
+like that
+
+24
+00:01:40,802 --> 00:01:41,534
+okay
+
+25
+00:01:42,722 --> 00:01:47,000
+so, let's get started to presentence our design.
+
+26
+00:01:47,657 --> 00:01:48,292
+okay
+
+27
+00:01:49,708 --> 00:01:51,056
+please, starting, nila or afny 
+
+28
+00:01:57,513 --> 00:02:08,740
+first, I identify the distinctive shape of sakeluarga app and its suitable for using corner radius or blunt sides for all your design applications.
+
+29
+00:02:09,285 --> 00:02:11,365
+and i added SSO fiture.  
+
+30
+00:02:11,847 --> 00:02:22,131
+go to the homepage, here are categories. In the event section I applied the hierarchical principle design, namely by applying the drop Shadow effect to show the important part 
+
+31
+00:02:22,362 --> 00:02:29,546
+in the search menu, here I display categories too. I put design with blue light color in the primary color, namely dark blue,
+
+32
+00:02:30,000 --> 00:02:37,170
+and in "Kuliah ku" menu  is divided into two categories and sorted by date . According to the principle of material design, namely logical
+
+33
+00:02:37,736 --> 00:02:38,324
+okay
+
+34
+00:02:39,436 --> 00:02:43,222
+and then, i decided to make a new menu. 
+
+35
+00:02:43,804 --> 00:02:45,502
+"buat event" menu. 
+
+36
+00:02:46,109 --> 00:02:49,798
+because, i think, just admin who can create the events
+
+37
+00:02:50,506 --> 00:02:51,006
+yeah
+
+38
+00:02:51,613 --> 00:02:57,835
+so, in this menu, we can register to make a event in Sakeluarga app. 
+
+39
+00:02:57,835 --> 00:03:00,953
+and i think, event could be more and innovative
+
+40
+00:03:02,217 --> 00:03:02,861
+okay
+
+41
+00:03:02,861 --> 00:03:11,529
+then, in transaction menu. I decided to breakdown into three part,
+
+42
+00:03:11,529 --> 00:03:14,712
+but, for a preferred accounts, I added option to make a payment.
+
+43
+00:03:16,153 --> 00:03:17,090
+okay okay
+
+44
+00:03:17,570 --> 00:03:27,259
+but wait, in the sakeluarga app, we don't have a content. So, why the design can  same ?
+
+45
+00:03:28,650 --> 00:03:35,852
+in this section, i screenshoot from sakeluarga app. and other section i decided to make design by my self
+
+46
+00:03:36,711 --> 00:03:41,049
+ooh, so in transaction menu, there has some of list, right?
+
+47
+00:03:43,981 --> 00:03:44,831
+okay okey
+
+48
+00:03:46,019 --> 00:03:47,055
+in profile menu
+
+49
+00:03:48,000 --> 00:03:51,691
+in sakeluarga app, the profile menu menu just show email and name right? 
+
+50
+00:03:52,045 --> 00:03:52,826
+but
+
+51
+00:03:52,826 --> 00:03:54,973
+i decided to added about personal info
+
+52
+00:03:55,554 --> 00:04:04,469
+so, its can helps to show a recommendation as suitable from work's user 
+
+53
+00:04:04,469 --> 00:04:07,161
+and then this is a certificate menu
+
+54
+00:04:08,147 --> 00:04:13,556
+also about us and FAQ
+
+55
+00:04:14,062 --> 00:04:20,468
+and also, when we join in the course, we can get a certificate. and we can collect them in 'certificate menu'
+
+56
+00:04:21,252 --> 00:04:22,886
+i think thats all for me
+
+57
+00:04:26,551 --> 00:04:27,513
+okay
+
+58
+00:04:32,468 --> 00:04:39,165
+so far, its good. from beginning to the end it has been well elaborated. what the tools design that you use?
+
+59
+00:04:39,822 --> 00:04:40,322
+figma 
+
+60
+00:04:42,521 --> 00:04:48,834
+what to use other tools like splint? or just figma?
+
+61
+00:04:49,719 --> 00:04:50,413
+just figma
+
+62
+00:04:51,070 --> 00:04:51,722
+ohh just figma
+
+63
+00:04:53,576 --> 00:04:54,966
+okay
+
+64
+00:04:55,471 --> 00:04:56,376
+so far its good
+
+65
+00:04:56,907 --> 00:05:00,032
+from beginning to the end all done and suitable. 
+
+66
+00:05:01,801 --> 00:05:06,550
+and, i decided to change the color because i want to make matches  with the logo
+
+67
+00:05:08,269 --> 00:05:17,188
+from color logo, it gradient color.  a mixture of purple and sky blue.
+
+68
+00:05:18,326 --> 00:05:26,429
+so, the style or button should have a gradient color too
+
+69
+00:05:27,288 --> 00:05:35,252
+and, i have a feedback to your design. 
+
+70
+00:05:35,783 --> 00:05:40,661
+label and icon/button no have a spacing
+
+71
+00:05:41,470 --> 00:05:45,930
+so, nothing space field
+
+72
+00:05:46,045 --> 00:05:46,545
+understand what i mean?
+
+73
+00:05:48,239 --> 00:05:50,767
+yess, its too close
+
+74
+00:05:51,778 --> 00:06:04,525
+ so, nothing a spacing. and in the navbar menu, between icon and container, icon  is too big.
+
+75
+00:06:04,753 --> 00:06:13,318
+but, space or container's height too small
+
+76
+00:06:13,318 --> 00:06:18,165
+may be, i think, you must minimiza the icon
+
+77
+00:06:18,746 --> 00:06:25,341
+and between icon and label have a spacing around a few pixcel, 
+
+78
+00:06:26,403 --> 00:06:27,125
+like that
+
+79
+00:06:27,732 --> 00:06:35,751
+and for label in categories its good. but you should add a padding to the right and left
+
+80
+00:06:37,596 --> 00:06:41,269
+for bottom and top, its enough 
+
+81
+00:06:42,811 --> 00:06:44,832
+just, add spacing in right and left
+
+82
+00:06:46,500 --> 00:06:47,748
+like that...
+
+83
+00:06:50,428 --> 00:06:51,395
+and
+
+84
+00:06:51,875 --> 00:06:52,992
+mmmmm.
+
+85
+00:06:53,321 --> 00:06:57,092
+in the section 'event'
+
+86
+00:06:59,418 --> 00:07:02,303
+wait in beranda menu
+
+87
+00:07:06,242 --> 00:07:19,783
+in the event box, there is tittle, date and and information about free or paid. it should be added a emphasis.
+
+88
+00:07:19,783 --> 00:07:25,288
+so, we can know clear about date, title of event and fee or free. so, it can make different.
+
+89
+00:07:26,189 --> 00:07:34,195
+and between tittle, there no have a space. 
+
+90
+00:07:38,513 --> 00:07:40,403
+that's it
+
+91
+00:07:44,533 --> 00:07:45,565
+it's enaough?
+
+92
+00:07:50,261 --> 00:07:51,132
+finish....
+
+93
+00:07:54,318 --> 00:07:55,145
+good job!!
+
+94
+00:07:55,774 --> 00:07:57,405
+anythihng else, nil, ny?
+
+95
+00:07:57,405 --> 00:08:01,475
+laugh'
+
+96
+00:08:01,475 --> 00:08:02,910
+may be
+
+97
+00:08:03,707 --> 00:08:05,551
+we can get some suggest from you..
+
+98
+00:08:06,372 --> 00:08:09,744
+what we have to do to build the app
+
+99
+00:08:11,090 --> 00:08:12,065
+ suggest...
+
+100
+00:08:12,589 --> 00:08:17,028
+like,  how to make flow UI/UX ?
+
+101
+00:08:18,579 --> 00:08:21,367
+yes, what we have to do to build the design app?
+
+102
+00:08:22,289 --> 00:08:33,885
+when you build design app, the goal is you will bring that design to presented in front of client and developer, right?
+
+103
+00:08:34,556 --> 00:08:47,360
+nah, when we presented to our client, we have to show to our client the action of the app, and the flow, as you did earlier
+
+104
+00:08:48,953 --> 00:08:52,500
+because, it will develop into coding right?
+
+105
+00:08:53,716 --> 00:08:55,803
+so, it's importan to know, how that flow.
+
+106
+00:08:58,570 --> 00:09:07,087
+but, for all, i can see the flow, and for your design its so clean. 
+
+107
+00:09:08,764 --> 00:09:10,454
+and then..
+
+108
+00:09:12,278 --> 00:09:13,434
+hmmm
+
+109
+00:09:14,503 --> 00:09:27,187
+and, if you bring this to coding, usually between design and coding its important to know about information like size and style that design
+
+110
+00:09:27,187 --> 00:09:29,553
+because, developer need it
+
+111
+00:09:29,553 --> 00:09:32,538
+and you can integrate with zeplin..
+
+112
+00:09:34,844 --> 00:09:41,008
+but, for know, you just presented, you will need it when you have a collabration with developer.
+
+113
+00:09:44,551 --> 00:09:45,858
+so far its good
+
+114
+00:09:50,000 --> 00:09:56,437
+I didn't think about checklists and checkout either. and also SSO fitur.
+
+115
+00:09:57,108 --> 00:10:04,776
+actually, this app have a SSO fitur, but make hide it, when I connected, there is an error
+
+116
+00:10:04,776 --> 00:10:06,398
+so, i can't show it.
+
+117
+00:10:09,333 --> 00:10:09,897
+like that
+
+118
+00:10:12,308 --> 00:10:19,228
+may be, it's enough right?  we can stop this discussion
+
+119
+00:10:19,228 --> 00:10:22,216
+thank you for your feed back
+
+120
+00:10:23,683 --> 00:10:28,165
+also, thankyou for you tiime given to us 
+
+121
+00:10:28,165 --> 00:10:29,367
+youre welcome
+
+122
+00:10:30,000 --> 00:10:33,467
+ if you want something you can contact me again. it's okay
+
+123
+00:10:33,467 --> 00:10:34,456
+really?
+
+124
+00:10:34,456 --> 00:10:35,850
+laugh
+
+125
+00:10:35,850 --> 00:10:37,096
+yes, it's okay
+
+126
+00:10:37,096 --> 00:10:41,646
+but, it's depend with my time, if i have a schedule, I will slowrespond 
+
+127
+00:10:42,610 --> 00:10:43,356
+hmmm
+
+128
+00:10:46,311 --> 00:10:46,811
+okay
+
+129
+00:10:48,865 --> 00:10:49,774
+i'm leaving this room yeah..
+
+130
+00:10:50,193 --> 00:10:51,893
+thank you , kak
+
+131
+00:10:52,333 --> 00:10:53,544
+okay see yaa
+
