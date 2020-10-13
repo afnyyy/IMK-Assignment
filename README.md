@@ -5,6 +5,9 @@ Tanggal Record : Rabu, 7 Oktober 2020
 Via Zoom Meeting
 > https://youtu.be/7pCmfphOcqo 
 
+## Day-2
+Design mockup dikerjakan oleh Afny dan juga Nila. Menggunakan Figma. Penjelasan mengenai material design terdapat dalam file Afny's Mockup dan Nila's Mockup
+
 ### Day-3 (Voting Design)
 Tanggal Record : Minggu, 11 Oktober 2020
 Via Zoom Meeting
