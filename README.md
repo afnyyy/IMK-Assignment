@@ -6,8 +6,14 @@ Via Zoom Meeting
 > https://youtu.be/7pCmfphOcqo 
 
 ## Day-2
-Design mockup dikerjakan oleh Afny dan juga Nila. Menggunakan Figma. Penjelasan mengenai material design terdapat dalam task 2/Afny's Mockup dan task 2/Nila's Mockup
+Design mockup dikerjakan oleh Afny dan juga Nila. Menggunakan Figma. Material design terdapat dalam task 2/Afny's Mockup dan task 2/Nila's Mockup
+> https://github.com/cinditrifs/IMK-Assignment/tree/hw2/task%202
 
+Penjelasan desain yang dibuat :
+- Desain 1 (Afny)
+> https://github.com/cinditrifs/IMK-Assignment/blob/hw2/task%202/Afny's%20Mockup/filosofi%20desain%20afny.pdf
+- Desain 2 (Nilatil Moena)
+> https://github.com/cinditrifs/IMK-Assignment/blob/hw2/task%202/Nila's%20Mockup/Material%20Design%20Philosophy%20-%20Nila.pdf
 ### Day-3 (Voting Design)
 Tanggal Record : Minggu, 11 Oktober 2020
 Via Zoom Meeting
